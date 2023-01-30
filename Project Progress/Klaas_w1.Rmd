@@ -1,0 +1,24 @@
+---
+title: "Leave empty"
+author: "Leave empty"
+date: "Leave empty"
+output: ioslides_presentation
+---
+
+---
+
+- Change of plan: Create interactive Map shiny dashboard of Early Childhood Education in Indonesia.
+
+- Geo map of Indonesia: Identified the latitudes and longitudes of Provinces, Districts, and Sub-districts
+[Geo map data](https://datahub.io/JemputData/location_id)
+- Challenge:
+The current data has no identifier to link to the map. 
+
+I decided to change the data provincial level data that available publicly in the government's website: teachers, students, schools ratio, demographic information, # of accredited school,  # of center based on types (public/private), 
+
+![Map of Indonesia](https://media.licdn.com/dms/image/C5112AQGZyyg84G4TiA/article-inline_image-shrink_1000_1488/0/1523262518496?e=1679529600&v=beta&t=3m4TtJHr4gddI4Q9U-LuhqWiJnVYlzfWhLo_kaY7ZPw)
+
+
+- ...
+
+Note. You can add code chunks, plots, or images as necessary to your presentation. Please make sure it doesn't depend on any fancy stuff so I can reproduce it on my computer when putting slides together.
